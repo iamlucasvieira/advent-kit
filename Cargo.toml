@@ -1,0 +1,11 @@
+[package]
+name = "advent-kit"
+version = "0.1.0"
+edition = "2021"
+license-file = "LICENSE"
+description = "Advent of Code helpers kit"
+repository = "https://github.com/iamlucasvieira/advent-kit"
+readme = "README.md"
+
+
+[dependencies]
