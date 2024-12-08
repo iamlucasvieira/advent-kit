@@ -4,3 +4,4 @@
 //! structured format that can be used to solve the problem.
 
 pub mod matrix;
+pub use matrix::*;
